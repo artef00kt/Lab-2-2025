@@ -1,0 +1,5 @@
+.env
+**/.env
+**/venv
+**/test-video
+**/n8n/files
